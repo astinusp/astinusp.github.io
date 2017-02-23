@@ -59,7 +59,7 @@
               "color": "#ffffff"
             },
             ".mbr-section-title SPAN": {
-              "color": "#ffffff",
+              "color": "#2969b0",
               "font-size": "9px"
             }
           },
@@ -87,7 +87,7 @@
             "showText": true,
             "showButton": false
           },
-          "title": "<span style=\"line-height: 1.1;\">ECONOMIA &nbsp;KARIÉRA</span><br>",
+          "title": "",
           "text": "<h3></h3>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SEE ALL TEMPLATES</a>"
         },
@@ -340,7 +340,7 @@
             "showText": true,
             "showTitle": true
           },
-          "button": " <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"http://economia.jobs.cz/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-smile-face mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(41, 105, 176);\"></span>VOLNÉ POZCE</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://www.facebook.com/Economiaas/?ref=aymt_homepage_panel\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"etl-icon icon-facebook mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(41, 105, 176);\"></span>FACEBOOK&nbsp;</a>",
+          "button": " <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"http://economia.jobs.cz/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-smile-face mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(41, 105, 176);\"></span>VOLNÉ POZICE</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://www.facebook.com/Economiaas/?ref=aymt_homepage_panel\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"etl-icon icon-facebook mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(41, 105, 176);\"></span>FACEBOOK&nbsp;</a>",
           "text": "NEJSME JENOM NOVINY",
           "title": "<br>Pracují s námi profesionálové z oblasti IT, e-commerce, obchodu, financí a mnoho dalších. Jsme moderní a inovatovní mediální dům. <br>Realizujeme zajímavé projekty a zkoušíme nové věci. <br>Hledáme kolegy, kteří nejsou líní a chtějí na sobě pracovat. <br>Dáváme možnost, jak zkušeným profesionálům, tak absolventům s chutí učit se nové věci."
         },
@@ -1071,7 +1071,7 @@
           },
           "title3": "Lucka,&nbsp;account manažerka",
           "subtitle3": "<span style=\"font-size: 0.875rem; line-height: 1.7857;\"><br></span><span style=\"font-size: 0.875rem; line-height: 1.7857;\">&nbsp;\"Při své práci oceňuji především inspirativní kolegy, jak z obchodu, tak z jiných odděleni.\"</span><br>",
-          "caption3": "\"Uznávám, že u výběrového řízení jsem se trochu zapotila, ale na druhou stranu my férově odhalili, jaká bude realita pozice accont manažerky. Je to práce pro dříče a začátky nebyly lehké. Měla jsem ale vždy kam jít pro radu, buď ke svému šéfovi nebo obchodní koučce. Nidky mi neřekli, že na mě nemají čas. Myslím, že moje snaha mi přinesla ovoce. Mám stálé porfolio klinetů, kteří mi důvěřují a společně vymýšlíme různé možnosti jejich propagace s pomocí našich online médií a printových titulů.\"&nbsp;",
+          "caption3": "\"Uznávám, že u výběrového řízení jsem se trochu zapotila, ale na druhou stranu mi férově odhalili, jaká bude realita pozice account manažerky. Je to práce pro dříče a začátky nebyly lehké. Měla jsem ale vždy kam jít pro radu, buď ke svému šéfovi nebo obchodní koučce. Nidky mi neřekli, že na mě nemají čas. Myslím, že moje snaha mi přinesla ovoce. Mám stálé porfolio klinetů, kteří mi důvěřují a společně vymýšlíme různé možnosti jejich propagace s pomocí našich online médií a printových titulů.\"&nbsp;",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "image": {
@@ -1087,7 +1087,7 @@
           },
           "title4": "Lukáš,&nbsp;produkt manažer",
           "subtitle4": "<br>\"V životě jdu vždy štěstí naproti a v případě Economia se to rozhodně vyplatilo.\"",
-          "caption4": "\"Do Economie jsem nastoupil jako SEO specialista pro Agenturu Najisto. Během pár týdnů jsem dostal šanci se účastnit produktových sezení o tom, kam bude produkt Najista směřovat v budoucnu. Byla to pro mne velká výzva a tvrdě jsem pracoval, abych naplnil veškerá očekávání ve všech směrec. Sám sobě si kladu vysoké cíle a tak jsem ještě k SEO začal pracovat na změně komunikace na sociálních sítích a redesignu produktového webu.<br>&nbsp;Dostal jsem možnost realizovat své myšlenky a nyní jsem Product Manager portfolia Agentury Najisto.\"<br>",
+          "caption4": "\"Do Economie jsem nastoupil jako SEO specialista pro Agenturu Najisto. Během pár týdnů jsem dostal šanci se účastnit produktových sezení o tom, kam bude produkt Najista směřovat v budoucnu. Byla to pro mne velká výzva a tvrdě jsem pracoval, abych naplnil veškerá očekávání ve všech směrech. Sám sobě si kladu vysoké cíle a tak jsem ještě k SEO začal pracovat na změně komunikace na sociálních sítích a redesignu produktového webu.<br>&nbsp;Dostal jsem možnost realizovat své myšlenky a nyní jsem Product Manager portfolia Agentury Najisto.\"<br>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "image": {
@@ -1133,7 +1133,7 @@
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/tisk-economia-16-2000x1498-241.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/tisk-economia-16-2000x1498-242.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1692,7 +1692,7 @@
           "text4": "hr@economia.cz",
           "title1": "Zajímá Vás?",
           "text5": "<br><li>IT nebo produkt? Napiš Kristýně</li><li>Obchod? Napiš Andree</li><li>Redakce, finance nabo HR? Napiš Kamile</li><br>",
-          "text6": "<strong>Emaily na HR konzultantky&nbsp;</strong><br>kamila.bartovska@eonomia.cz<br>kristyna.burdova@economia.cz<br>andrea.vykopalova@economia.cz<br><br><br><font color=\"#7e9b9f\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>weby</b></span></font><br>www.economia.cz<br>www.economia.jobs.cz",
+          "text6": "<strong>Emaily na HR konzultantky&nbsp;</strong><br>kamila.bartovska@economia.cz<br>kristyna.burdova@economia.cz<br>andrea.vykopalova@economia.cz<br><br><br><font color=\"#7e9b9f\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>weby</b></span></font><br>www.economia.cz<br>www.economia.jobs.cz",
           "form": {
             "title": "MESSAGE",
             "action": "kristyna.polochova@economia.cz",
