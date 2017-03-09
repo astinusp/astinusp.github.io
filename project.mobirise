@@ -23,7 +23,7 @@
     "versionFirst": "3.8.5",
     "uniqCompNum": 65,
     "versionPublish": "3.8.5",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/economia-motiv-e-128x99-64.jpg",
     "noImageResize": "",
     "publishType": "local",
     "publishPath": "file:///Users/kristyna/astinusp.github.io",
@@ -1148,7 +1148,7 @@
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/tisk-economia-16-2000x1498-240.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/tisk-economia-16-2000x1498-242.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
