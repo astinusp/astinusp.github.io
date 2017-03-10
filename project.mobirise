@@ -903,10 +903,10 @@
               "name": "edit",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "",
+              "link": "http://economia.jobs.cz/",
               "size": "160",
               "color": "#2969b0",
-              "newWindow": false
+              "newWindow": true
             }
           },
           "title1": "REDAKCE",
@@ -920,10 +920,10 @@
               "name": "responsive",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "",
+              "link": "http://economia.jobs.cz/",
               "size": 0,
               "color": "#2969b0",
-              "newWindow": false
+              "newWindow": true
             }
           },
           "title2": "IT &amp; PRODUKT &nbsp;",
@@ -937,10 +937,10 @@
               "name": "cart-add",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "",
+              "link": "http://economia.jobs.cz/",
               "size": 0,
               "color": "#2969b0",
-              "newWindow": false
+              "newWindow": true
             }
           },
           "title3": "OBCHOD",
@@ -954,10 +954,10 @@
               "name": "presentation",
               "family": "et-line",
               "active": true,
-              "link": "",
+              "link": "http://economia.jobs.cz/",
               "size": 0,
               "color": "#2969b0",
-              "newWindow": false
+              "newWindow": true
             }
           },
           "title4": "SPECIALISTÉ",
@@ -1151,7 +1151,7 @@
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/tisk-economia-16-2000x1498-242.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/tisk-economia-16-2000x1498-243.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1214,10 +1214,10 @@
               "name": "map-pin",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "",
+              "link": "https://www.facebook.com/Economiaas/?ref=ts&fref=ts",
               "size": "120",
               "color": "#2969b0",
-              "newWindow": false
+              "newWindow": true
             }
           },
           "title1": "Lokalita - Karlín",
@@ -1231,10 +1231,10 @@
               "name": "rocket",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "",
+              "link": "https://www.facebook.com/Economiaas/?ref=ts&fref=ts",
               "size": "120",
               "color": "#2c82c9",
-              "newWindow": false
+              "newWindow": true
             }
           },
           "title2": "Aktivity",
@@ -1248,10 +1248,10 @@
               "name": "sun",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "",
+              "link": "https://www.facebook.com/Economiaas/?ref=ts&fref=ts",
               "size": "120",
               "color": "#2969b0",
-              "newWindow": false
+              "newWindow": true
             }
           },
           "title3": "Benefity",
@@ -1265,10 +1265,10 @@
               "name": "chat",
               "family": "et-line",
               "active": true,
-              "link": "",
+              "link": "https://www.facebook.com/Economiaas/?ref=ts&fref=ts",
               "size": "120",
               "color": "#2969b0",
-              "newWindow": false
+              "newWindow": true
             }
           },
           "title4": "Zajímáme se o vás",
