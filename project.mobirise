@@ -912,7 +912,7 @@
           "title1": "REDAKCE",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Pro mladé lidi, kteří mají chuť do práce a aspoň trochu zvědavosti, je náš newsroom tím nejlepším místem, kde začít s novinařinou.<br><br>",
-          "button1": "<a data-app-btn=\"true\" href=\"http://economia.jobs.cz/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VOLNÉ POZICE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://economia.jobs.cz/?customcateg%5B0%5D=cc3&amp;prefid_location_hier\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VOLNÉ POZICE</a>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features2",
@@ -929,7 +929,7 @@
           "title2": "IT &amp; PRODUKT &nbsp;",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "Nekoukáme na to, co z IT umíš, ale na to, co bys mohl umět. Používáme mnoho moderních technologií. Není nutné, abys všechny znal, stačí, když nás necháš, abychom tě je naučili.",
-          "button2": "<a data-app-btn=\"true\" href=\"http://economia.jobs.cz/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VOLNÉ POZICE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://economia.jobs.cz/?customcateg%5B0%5D=cc2&amp;prefid_location_hier\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VOLNÉ POZICE</a>",
           "media3": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features2",
@@ -946,7 +946,7 @@
           "title3": "OBCHOD",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Našimi klienty jsou velké nadnárodní firmy i malí podnikatelé. Umíme jim nabídnou i mnoho služeb od banneru po mezinárodní event. U nás je obchodník konzultantem.",
-          "button3": "<a data-app-btn=\"true\" href=\"http://economia.jobs.cz/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VOLNÉ POZICE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://economia.jobs.cz/?customcateg%5B0%5D=cc1&amp;prefid_location_hier\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VOLNÉ POZICE</a>",
           "media4": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features2",
@@ -954,7 +954,7 @@
               "name": "presentation",
               "family": "et-line",
               "active": true,
-              "link": "http://economia.jobs.cz/",
+              "link": "https://www.facebook.com/Economiaas/?ref=ts&fref=ts",
               "size": 0,
               "color": "#2969b0",
               "newWindow": true
@@ -963,7 +963,7 @@
           "title4": "SPECIALISTÉ",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Finance, produkty, personalistika, e-commerce, back office, office management, marketing, event management - ve všech těchto profesích se u nás uplatníte.",
-          "button4": "<a data-app-btn=\"true\" href=\"http://economia.jobs.cz/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VOLNÉ POZICE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://economia.jobs.cz/?customcateg%5B0%5D=cc5&amp;prefid_location_hier\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VOLNÉ POZICE</a>",
           "media5": {
             "iconFont": {
               "active": true,
@@ -1077,7 +1077,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">zkus si test</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/portretky-6-f-600x600-56.jpg",
+              "src": "@PROJECT_PATH@/assets/images/portretky-8-f-600x600-93.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1087,9 +1087,9 @@
               "linkInNewWindow": false
             }
           },
-          "title3": "Lucka,&nbsp;account manažerka",
-          "subtitle3": "<span style=\"font-size: 0.875rem; line-height: 1.7857;\"><br></span><span style=\"font-size: 0.875rem; line-height: 1.7857;\">&nbsp;\"Při své práci oceňuji především inspirativní kolegy, jak z obchodu, tak z jiných oddělení.\"</span><br>",
-          "caption3": "\"Uznávám, že u výběrového řízení jsem se trochu zapotila, ale na druhou stranu mi férově odhalili, jaká bude realita pozice account manažerky. Je to práce pro dříče a začátky nebyly lehké. Měla jsem ale vždy kam jít pro radu, buď ke svému šéfovi, nebo obchodní koučce. Nikdy mi neřekli, že na mě nemají čas. Myslím, že moje snaha mi přinesla ovoce. Mám stálé portfolio klientů, kteří mi důvěřují, a společně vymýšlíme různé možnosti jejich propagace s pomocí našich on-line médií a printových titulů.\"&nbsp;",
+          "title3": "Jakub,&nbsp;account manažer pro speciální projekty",
+          "subtitle3": "<br><span style=\"font-size: 0.875rem; line-height: 1.7857;\">\"Je to dřina, ale je skvělé potkávat se s kolegy napříč různými týmy a vymýšlet nové věci.\"</span><br>",
+          "caption3": "\"Říkají o nás, že prošlapáváme nové cestičky projektům, ze kterých se po čase stanou cesty a pak dálnice, díky kterým můžu já i moji kolegové nabízet na trhu produkty, které dávají smysl. Určitě to není lehké, ale ten pocit uspokojení, když se projekt dotáhne do zdárného konce je prostě k nezaplacení! Jsme tým! Když potřebuji pomocnou ruku, jsou tu kolegové, kteří pomůžou. A pro koho to dělám? Přece pro mé klienty, velké i menší firmy, kterým připravuji komunikační mix ze všech ingrediencí, které náš mediální dům nabízí. Z online médií, tištěných titulů nebo třeba eventů.\"<br>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "image": {
@@ -1151,7 +1151,7 @@
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/tisk-economia-16-2000x1498-243.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/tisk-economia-16-2000x1498-241.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
