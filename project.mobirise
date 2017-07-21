@@ -330,7 +330,7 @@
             "H2": {
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "font-size": "48px",
+              "font-size": "36px",
               "color": "#ffffff"
             }
           },
@@ -356,7 +356,7 @@
             "showTitle": true
           },
           "button": " <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"http://economia.jobs.cz/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-smile-face mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(41, 105, 176);\"></span>VOLNÉ POZICE</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://www.facebook.com/Economiaas/?ref=aymt_homepage_panel\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"etl-icon icon-facebook mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(41, 105, 176);\"></span>FACEBOOK&nbsp;</a>",
-          "text": "NEJSME JENOM NOVINY",
+          "text": "JSME VÍC NEŽ JEN NOVINY",
           "title": "<br>Pracují s námi profesionálové z oblasti IT, e-commerce, obchodu, financí a mnoha dalších. Jsme moderní a inovativní mediální dům. <br>Realizujeme zajímavé projekty a zkoušíme nové věci. <br>Hledáme kolegy, kteří nejsou líní a chtějí na sobě pracovat. <br>Nabízíme možnost jak zkušeným profesionálům, tak absolventům s chutí učit se nové věci."
         },
         {
@@ -542,7 +542,8 @@
           "text4": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut, cupiditate, debitis! Laborum maiores autem totam aliquid nemo beatae possimus rem?",
           "_styles": {
             "P": {
-              "text-align": "left"
+              "text-align": "left",
+              "color": "#2969b0"
             },
             "SPAN": {
               "color": "#2969b0"
@@ -1595,11 +1596,11 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/portretky-1-f-1400x1021-55.jpg",
-              "link": "",
+              "src": "@PROJECT_PATH@/assets/images/hr-aktual-1400x933-66.jpg",
+              "link": "https://economia.jobs.cz/",
               "alt": "",
               "title": "",
-              "linkInNewWindow": false
+              "linkInNewWindow": true
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -1613,7 +1614,7 @@
               "size": 0
             }
           },
-          "title": "<span style=\"color: inherit; line-height: 1.1;\">Bude se ti věnovat jedna z našich personalistek (vpravo)&nbsp;</span><br>Kamila, Kristýna nebo Andrea",
+          "title": "<span style=\"color: inherit; line-height: 1.1;\">Bude se ti věnovat jedna z našich personalistek&nbsp;</span>",
           "text": "1) Pošli životopis nebo odkaz na LinkedIn.<br>2) Podíváme se na něj a nejpozději do týdne se ti ozveme.<br>3) Pak záleží na pozici. Většinou nám ale nestačí jen pohovor, chceme si kolegy vybrat pečlivě.&nbsp;<br>4) Doplněním pohovoru pro nás bývá nějaký test odborných znalostí, on-line osobnostní diagnostika či různé modelové situace.<br>5) Pokud uspěješ, dostaneš nabídku a nastupuješ :)&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://economia.jobs.cz/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VOLNÁ MÍSTA</a>"
         },
@@ -1637,7 +1638,8 @@
               "border-bottom": "1px dotted rgba(0, 0, 0, 0.2)"
             },
             "P": {
-              "font-size": "17px"
+              "font-size": "17px",
+              "color": "#2969b0"
             },
             "LI": {
               "color": "#2969b0"
@@ -1709,8 +1711,8 @@
           },
           "text4": "<a href=\"mailto:hr@economia.cz\">hr@economia.cz</a>",
           "title1": "Zajímá vás?",
-          "text5": "<br><li>IT nebo produkt? <a href=\"mailto:kristyna.burdova@economia.cz\">Napiš Kristýně</a></li><li>Obchod? <a href=\"mailto:andrea.vykopalova@economia.cz\">Napiš Andree</a></li><li>Redakce, finance nebo HR?<a href=\"mailto:kamila.bartovska@economia.cz\"> </a><a href=\"mailto:kamila.bartovska@economia.cz\">Napiš Kamile</a></li><br>",
-          "text6": "<strong>E-maily na HR konzultantky&nbsp;</strong><br><a href=\"mailto:kamila.bartovska@economia.cz\">kamila.bartovska@economia.cz</a><br><a href=\"mailto:kristyna.burdova@economia.cz\">kristyna.burdova@economia.cz</a><br><a href=\"mailto:andrea.vykopalova@economia.cz\">andrea.vykopalova@economia.cz</a><br><br><br><font color=\"#7e9b9f\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>weby</b></span></font><br><a href=\"http://economia.ihned.cz/kariera/proc-k-nam/\" target=\"_blank\">www.economia.cz</a><br><a href=\"http://http://economia.jobs.cz/\" target=\"_blank\">www.economia.jobs.cz</a>",
+          "text5": "<br><li>IT nebo produkt? <a href=\"mailto:dominika.jirikova@economia.cz\" target=\"_blank\">Napiš Dominice</a><a href=\"mailto:kristyna.burdova@economia.cz\"></a></li><li>Obchod? <a href=\"mailto:ivana.cervena@economia.cz\" target=\"_blank\">Napiš Ivaně</a><a href=\"mailto:andrea.vykopalova@economia.cz\"></a></li><li>Redakce, finance nebo HR?<a href=\"mailto:kamila.bartovska@economia.cz\"> </a><a href=\"mailto:kamila.bartovska@economia.cz\" target=\"_blank\">Napiš Kamile</a></li><li>Stáže a administrativa? <a href=\"mailto:andrea.vykopalova@economia.cz\" target=\"_blank\">Napiš Andree</a></li><br>",
+          "text6": "<p><strong>E-maily na HR konzultantky&nbsp;</strong><br><a href=\"mailto:kamila.bartovska@economia.cz\">kamila.bartovska@economia.cz</a><br><a href=\"mailto:dominika.jirikova@economia.cz\" target=\"_blank\">dominika.jirikova@economia.cz</a></p><p><a href=\"mailto:ivana.cervena@economia.cz\" target=\"_blank\">ivana.cervena@economia.cz</a><br><a href=\"mailto:andrea.vykopalova@economia.cz\" target=\"_blank\">andrea.vykopalova@economia.cz</a></p><br><p><a href=\"mailto:andrea.vykopalova@economia.cz\"><br></a><br><br><br><font color=\"#7e9b9f\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>weby</b></span></font><br><a href=\"http://economia.ihned.cz/kariera/proc-k-nam/\" target=\"_blank\">www.economia.cz</a><br><a href=\"http://http://economia.jobs.cz/\" target=\"_blank\">www.economia.jobs.cz</a></p>",
           "form": {
             "title": "MESSAGE",
             "action": "kristyna.polochova@economia.cz",

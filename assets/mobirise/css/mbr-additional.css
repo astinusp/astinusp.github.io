@@ -519,7 +519,7 @@ h6,
 }
 #msg-box1-1m H2 {
   font-family: 'Montserrat', sans-serif;
-  font-size: 48px;
+  font-size: 36px;
   color: #ffffff;
 }
 #msg-box8-1n .mbr-section-title,
@@ -531,6 +531,7 @@ h6,
 }
 #content3-h P {
   text-align: left;
+  color: #2969b0;
 }
 #content3-h SPAN {
   color: #2969b0;
@@ -639,6 +640,7 @@ h6,
 }
 #contacts5-1f P {
   font-size: 17px;
+  color: #2969b0;
 }
 #contacts5-1f LI {
   color: #2969b0;
