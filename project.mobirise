@@ -543,7 +543,7 @@
           "_styles": {
             "P": {
               "text-align": "left",
-              "color": "#2969b0"
+              "color": "#000000"
             },
             "SPAN": {
               "color": "#2969b0"
@@ -1152,7 +1152,7 @@
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/tisk-economia-16-2000x1498-241.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/tisk-economia-16-2000x1498-243.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1639,7 +1639,7 @@
             },
             "P": {
               "font-size": "17px",
-              "color": "#2969b0"
+              "color": "#000000"
             },
             "LI": {
               "color": "#2969b0"
@@ -1712,7 +1712,7 @@
           "text4": "<a href=\"mailto:hr@economia.cz\">hr@economia.cz</a>",
           "title1": "Zajímá vás?",
           "text5": "<br><li>IT nebo produkt? <a href=\"mailto:dominika.jirikova@economia.cz\" target=\"_blank\">Napiš Dominice</a><a href=\"mailto:kristyna.burdova@economia.cz\"></a></li><li>Obchod? <a href=\"mailto:ivana.cervena@economia.cz\" target=\"_blank\">Napiš Ivaně</a><a href=\"mailto:andrea.vykopalova@economia.cz\"></a></li><li>Redakce, finance nebo HR?<a href=\"mailto:kamila.bartovska@economia.cz\"> </a><a href=\"mailto:kamila.bartovska@economia.cz\" target=\"_blank\">Napiš Kamile</a></li><li>Stáže a administrativa? <a href=\"mailto:andrea.vykopalova@economia.cz\" target=\"_blank\">Napiš Andree</a></li><br>",
-          "text6": "<p><strong>E-maily na HR konzultantky&nbsp;</strong><br><a href=\"mailto:kamila.bartovska@economia.cz\">kamila.bartovska@economia.cz</a><br><a href=\"mailto:dominika.jirikova@economia.cz\" target=\"_blank\">dominika.jirikova@economia.cz</a></p><p><a href=\"mailto:ivana.cervena@economia.cz\" target=\"_blank\">ivana.cervena@economia.cz</a><br><a href=\"mailto:andrea.vykopalova@economia.cz\" target=\"_blank\">andrea.vykopalova@economia.cz</a></p><br><p><a href=\"mailto:andrea.vykopalova@economia.cz\"><br></a><br><br><br><font color=\"#7e9b9f\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>weby</b></span></font><br><a href=\"http://economia.ihned.cz/kariera/proc-k-nam/\" target=\"_blank\">www.economia.cz</a><br><a href=\"http://http://economia.jobs.cz/\" target=\"_blank\">www.economia.jobs.cz</a></p>",
+          "text6": "<p><strong>E-maily na HR konzultantky&nbsp;</strong><br><a href=\"mailto:kamila.bartovska@economia.cz\">kamila.bartovska@economia.cz</a><br><a href=\"mailto:dominika.jirikova@economia.cz\" target=\"_blank\">dominika.jirikova@economia.cz</a></p><p><a href=\"mailto:ivana.cervena@economia.cz\" target=\"_blank\">ivana.cervena@economia.cz</a><br><a href=\"mailto:andrea.vykopalova@economia.cz\" target=\"_blank\">andrea.vykopalova@economia.cz</a></p><p><br><b><a href=\"https://docs.google.com/document/d/1Ae_G9lRjQBQ3O8-OTk93CrLqKtJZ0TO4ZmIClloU3o4/edit\" target=\"_blank\">Zásady ochrany osobních údajů</a></b><br><br><font color=\"#7e9b9f\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>weby</b></span></font><br><a href=\"http://economia.ihned.cz/kariera/proc-k-nam/\" target=\"_blank\">www.economia.cz</a><br><a href=\"http://http://economia.jobs.cz/\" target=\"_blank\">www.economia.jobs.cz</a></p>",
           "form": {
             "title": "MESSAGE",
             "action": "kristyna.polochova@economia.cz",
